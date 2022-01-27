@@ -11,8 +11,10 @@ namespace LOgicalPrograms
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To Logical Programs");
-            FibonacciSeries1 fibonacciSeries1 = new FibonacciSeries1();
-            fibonacciSeries1.fibonacciSeries();
+            //FibonacciSeries1 fibonacciSeries1 = new FibonacciSeries1();
+            //fibonacciSeries1.fibonacciSeries();
+            PerfectNumber perfectNumber = new PerfectNumber();
+            perfectNumber.perfectNumber();
             Console.ReadLine();
         }
     }
