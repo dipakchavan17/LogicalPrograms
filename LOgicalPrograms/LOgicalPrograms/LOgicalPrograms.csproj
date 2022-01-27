@@ -46,6 +46,7 @@
     <Compile Include="CouponNumber.cs" />
     <Compile Include="DayOfWeek.cs" />
     <Compile Include="FibonacciSeries1.cs" />
+    <Compile Include="MonthlyPayment.cs" />
     <Compile Include="PerfectNumber.cs" />
     <Compile Include="PrimeNum1.cs" />
     <Compile Include="Program.cs" />

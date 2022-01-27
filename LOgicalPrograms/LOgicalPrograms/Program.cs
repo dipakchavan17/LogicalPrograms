@@ -26,8 +26,10 @@ namespace LOgicalPrograms
             //machine.amount();
            // DayOfWeek dayOfWeek = new DayOfWeek();
             //dayOfWeek.Day(11,10,2016);
-            TemperatureConversion temperatureConversion = new TemperatureConversion();
-            temperatureConversion.temperatureConversion();
+            //TemperatureConversion temperatureConversion = new TemperatureConversion();
+            //temperatureConversion.temperatureConversion();
+            MonthlyPayment monthlyPayment = new MonthlyPayment();
+            monthlyPayment.monthlyPayment();
 
 
             Console.ReadLine();
