@@ -17,8 +17,10 @@ namespace LOgicalPrograms
             //perfectNumber.perfectNumber();
             //PrimeNum1 primeNum1 = new PrimeNum1();
             //primeNum1.primeNumber();
-            ReverseNum1 reverseNum1 = new ReverseNum1();
-            reverseNum1.reverseNumber();
+            //ReverseNum1 reverseNum1 = new ReverseNum1();
+            //reverseNum1.reverseNumber();
+            CouponNumber couponNumber = new CouponNumber();
+            couponNumber.couponsNumbers();
             Console.ReadLine();
         }
     }
