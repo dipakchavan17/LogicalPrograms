@@ -28,8 +28,10 @@ namespace LOgicalPrograms
             //dayOfWeek.Day(11,10,2016);
             //TemperatureConversion temperatureConversion = new TemperatureConversion();
             //temperatureConversion.temperatureConversion();
-            MonthlyPayment monthlyPayment = new MonthlyPayment();
-            monthlyPayment.monthlyPayment();
+            //MonthlyPayment monthlyPayment = new MonthlyPayment();
+            //monthlyPayment.monthlyPayment();
+            SquareRoot squareRoot = new SquareRoot();
+            squareRoot.sqrtNewtonsMethod();
 
 
             Console.ReadLine();
