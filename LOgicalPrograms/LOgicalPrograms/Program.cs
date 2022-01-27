@@ -22,8 +22,12 @@ namespace LOgicalPrograms
            // CouponNumber couponNumber = new CouponNumber();
             //couponNumber.couponsNumbers();
             //StopWatch.stopWatch();
-            VendingMachine machine = new VendingMachine();
-            machine.amount();
+            //VendingMachine machine = new VendingMachine();
+            //machine.amount();
+            DayOfWeek dayOfWeek = new DayOfWeek();
+            dayOfWeek.Day(11,10,2016);
+
+
             Console.ReadLine();
         }
     }
