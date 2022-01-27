@@ -24,8 +24,10 @@ namespace LOgicalPrograms
             //StopWatch.stopWatch();
             //VendingMachine machine = new VendingMachine();
             //machine.amount();
-            DayOfWeek dayOfWeek = new DayOfWeek();
-            dayOfWeek.Day(11,10,2016);
+           // DayOfWeek dayOfWeek = new DayOfWeek();
+            //dayOfWeek.Day(11,10,2016);
+            TemperatureConversion temperatureConversion = new TemperatureConversion();
+            temperatureConversion.temperatureConversion();
 
 
             Console.ReadLine();
