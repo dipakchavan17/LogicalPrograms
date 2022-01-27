@@ -34,7 +34,9 @@ namespace LOgicalPrograms
             //squareRoot.sqrtNewtonsMethod();
             DecimalToBinary decimalToBinary = new DecimalToBinary();
             decimalToBinary.decimalToBinary();
-            
+            SwapNibble swapNibble = new SwapNibble();
+            swapNibble.ToBinary(20);
+
 
 
             Console.ReadLine();

@@ -55,6 +55,7 @@
     <Compile Include="ReverseNum1.cs" />
     <Compile Include="SquareRoot.cs" />
     <Compile Include="StopWatch.cs" />
+    <Compile Include="SwapNibble.cs" />
     <Compile Include="TemperatureConversion.cs" />
     <Compile Include="VendingMachine.cs" />
   </ItemGroup>
