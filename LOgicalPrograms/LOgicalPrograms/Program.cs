@@ -30,8 +30,11 @@ namespace LOgicalPrograms
             //temperatureConversion.temperatureConversion();
             //MonthlyPayment monthlyPayment = new MonthlyPayment();
             //monthlyPayment.monthlyPayment();
-            SquareRoot squareRoot = new SquareRoot();
-            squareRoot.sqrtNewtonsMethod();
+           // SquareRoot squareRoot = new SquareRoot();
+            //squareRoot.sqrtNewtonsMethod();
+            DecimalToBinary decimalToBinary = new DecimalToBinary();
+            decimalToBinary.decimalToBinary();
+            
 
 
             Console.ReadLine();
