@@ -15,8 +15,10 @@ namespace LOgicalPrograms
             //fibonacciSeries1.fibonacciSeries();
             //PerfectNumber perfectNumber = new PerfectNumber();
             //perfectNumber.perfectNumber();
-            PrimeNum1 primeNum1 = new PrimeNum1();
-            primeNum1.primeNumber();
+            //PrimeNum1 primeNum1 = new PrimeNum1();
+            //primeNum1.primeNumber();
+            ReverseNum1 reverseNum1 = new ReverseNum1();
+            reverseNum1.reverseNumber();
             Console.ReadLine();
         }
     }
