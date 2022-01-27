@@ -19,8 +19,11 @@ namespace LOgicalPrograms
             //primeNum1.primeNumber();
             //ReverseNum1 reverseNum1 = new ReverseNum1();
             //reverseNum1.reverseNumber();
-            CouponNumber couponNumber = new CouponNumber();
-            couponNumber.couponsNumbers();
+           // CouponNumber couponNumber = new CouponNumber();
+            //couponNumber.couponsNumbers();
+            //StopWatch.stopWatch();
+            VendingMachine machine = new VendingMachine();
+            machine.amount();
             Console.ReadLine();
         }
     }
