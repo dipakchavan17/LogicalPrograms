@@ -13,8 +13,10 @@ namespace LOgicalPrograms
             Console.WriteLine("Welcome To Logical Programs");
             //FibonacciSeries1 fibonacciSeries1 = new FibonacciSeries1();
             //fibonacciSeries1.fibonacciSeries();
-            PerfectNumber perfectNumber = new PerfectNumber();
-            perfectNumber.perfectNumber();
+            //PerfectNumber perfectNumber = new PerfectNumber();
+            //perfectNumber.perfectNumber();
+            PrimeNum1 primeNum1 = new PrimeNum1();
+            primeNum1.primeNumber();
             Console.ReadLine();
         }
     }
