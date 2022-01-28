@@ -21,7 +21,6 @@ namespace LOgicalPrograms
             //reverseNum1.reverseNumber();
            // CouponNumber couponNumber = new CouponNumber();
             //couponNumber.couponsNumbers();
-            //StopWatch.stopWatch();
             //VendingMachine machine = new VendingMachine();
             //machine.amount();
            // DayOfWeek dayOfWeek = new DayOfWeek();
@@ -32,10 +31,12 @@ namespace LOgicalPrograms
             //monthlyPayment.monthlyPayment();
            // SquareRoot squareRoot = new SquareRoot();
             //squareRoot.sqrtNewtonsMethod();
-            DecimalToBinary decimalToBinary = new DecimalToBinary();
-            decimalToBinary.decimalToBinary();
-            SwapNibble swapNibble = new SwapNibble();
-            swapNibble.ToBinary(20);
+           // DecimalToBinary decimalToBinary = new DecimalToBinary();
+           // decimalToBinary.decimalToBinary();
+           // SwapNibble swapNibble = new SwapNibble();
+          //  swapNibble.ToBinary(20);
+            ProgramStopWatch programStopWatch = new ProgramStopWatch();
+            programStopWatch.Elapsetime();
 
 
 
